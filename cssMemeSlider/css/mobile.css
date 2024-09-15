@@ -1,0 +1,25 @@
+@media screen and (max-width: 768px) {
+  .controls {
+    left: 50%;
+    bottom: 5%;
+  }
+
+  .controls label {
+    width: 10px;
+    height: 10px;
+    border-radius: 8px;
+  }
+
+  .wrapper .box {
+    height: 80vh;
+  }
+
+  .wrapper .content img {
+    height: auto;
+    max-height: 250px;
+  }
+
+  .wrapper .content p {
+    font-size: 14px;
+  }
+}
